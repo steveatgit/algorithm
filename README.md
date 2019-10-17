@@ -1,4 +1,4 @@
-# LeetCode All In One
+# All In One
 
 ![](https://img.shields.io/travis/skygragon/leetcode-cli.svg?style=flat)
 ![](https://img.shields.io/badge/language-C++-red.svg)
@@ -13,7 +13,7 @@ English | [简体中文](./README-CN.md)
 
 Provide all my solutions and explanations in Chinese for all the Leetcode coding problems.
 
-Same as this: [LeetCode All in One 题目讲解汇总(持续更新中...)](https://www.cnblogs.com/grandyang/p/4606334.html)
+Same as this: (https://www.cnblogs.com/grandyang/p/4606334.html)
 
 Note: All explanations are written in Github Issues, **please do not create any new issue in this project since the problem index should be consistent with the issue index**, thanks!
 
